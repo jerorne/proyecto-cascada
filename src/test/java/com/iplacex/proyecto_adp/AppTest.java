@@ -13,7 +13,7 @@ public class AppTest {
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue() {
-        assertTrue(true);
+    public static void main(String[] args) {
+        System.out.println("¡Hola, Iplacex!");
     }
 }
